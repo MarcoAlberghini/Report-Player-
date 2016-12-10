@@ -1,0 +1,7 @@
+name: reportPlayer
+version: beta
+main: it.ac.reportPlayer.main
+author: acmilan567
+commands:
+  segnala:
+      permission: report.send
